@@ -8,7 +8,7 @@ Mojo0224    - John Molin
 Majd01M     - Majd Morad
 Itachi-nika - Filip Yousif
 SamuelAmsih - Samuel Yousef
-<<<<<<< HEAD
+
 
 We will use C# and Unity.
 
