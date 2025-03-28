@@ -3,7 +3,7 @@
 
 A re-creation of the classic Super Mario Bros. 2D from NES, built with our own creative twist. This is a fun side-scrolling platformer developed as part of a passion project to dive into game development, practice programming, and honor a timeless classic.
 
-Group Members:
+# Group Members:
 Mojo0224    - John Molin
 Majd01M     - Majd Morad
 Itachi-nika - Filip Yousif
@@ -19,7 +19,7 @@ Animations
 Retro pixel art, (hopefully sound effects if there is time)
 
 
-#Features
+# Features
 
 ”Classic” Mario-style gameplay
 Player movement
@@ -31,7 +31,7 @@ Enemies movement
 
 
 
-#language
+# language
 
 C#
 
@@ -41,6 +41,6 @@ Unity
 
 
 
-link to Kanbon:
+# link to Kanbon:
 https://github.com/users/mojo0224/projects/3 
 
