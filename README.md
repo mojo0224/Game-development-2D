@@ -8,9 +8,11 @@ Mojo0224    - John Molin
 Majd01M     - Majd Morad
 Itachi-nika - Filip Yousif
 SamuelAmsih - Samuel Yousef
+<<<<<<< HEAD
 
 We will use C# and Unity.
 
 
 
-https://github.com/users/mojo0224/projects/3
+https://github.com/users/mojo0224/projects/3 
+
