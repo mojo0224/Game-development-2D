@@ -9,12 +9,36 @@ Majd01M     - Majd Morad
 Itachi-nika - Filip Yousif
 SamuelAmsih - Samuel Yousef
 
+# Implementation
 
-We will use C# and Unity.
+World map
+Main character
+Enemies
+Obstacles
+Animations
+Retro pixel art, (hopefully sound effects if there is time)
 
-# Twist 
 
-The twist that we are adding to our re-creation is a Naruto and Super Mario bros mashup. 
+#Features
+
+”Classic” Mario-style gameplay
+Player movement
+-jumping
+-walking
+-running
+Enemies movement
+-walking
+
+
+
+#language
+
+C#
+
+#Build-System
+ 
+Unity
+
 
 
 link to Kanbon:
