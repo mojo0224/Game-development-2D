@@ -14,7 +14,7 @@ We will use C# and Unity.
 
 # Twist 
 
-we will iomplement 
+The twist that we are adding to our re-creation is a Naruto and Super Mario bros mashup. 
 
 
 
