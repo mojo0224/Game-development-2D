@@ -5,6 +5,6 @@ A re-creation of the classic Super Mario Bros. 2D from NES, built with our own c
 
 Group Members:
 Mojo0224    - John Molin
-Majd01m     - Majd Morad
+Majd01M     - Majd Morad
 Itachi-nika - Filip Yousif
-Samuelamsih - Samuel Yousef
+SamuelAmsih - Samuel Yousef
